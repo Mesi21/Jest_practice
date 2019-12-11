@@ -7,6 +7,9 @@ it('reverse a word string', () => {
 });
 
 it('bad input as number to reverse string', () => {
-  const input = reverseString(1);
-  expect(input).toThrow(new Error('Input is not string'));
+  const badCall = () => {
+    reverseString(1);
+  };
+
+  expect(badCall).toThrow(new Error('Input is not string'));
 });
