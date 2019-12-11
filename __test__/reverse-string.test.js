@@ -6,6 +6,13 @@ it('reverse a word string', () => {
   expect(input).toBe(expectedOutput);
 });
 
+it('reverse multiple word string', () => {
+  const input = reverseString('reverse me');
+  const expectedOutput = 'em esrever';
+  expect(input).toBe(expectedOutput);
+});
+
+
 it('bad input as number to reverse string', () => {
   const badCall = () => {
     reverseString(1);
