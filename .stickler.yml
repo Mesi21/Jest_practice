@@ -8,3 +8,4 @@ linters:
 files:
   ignore:
       - 'dist/*'
+      - 'jest.config.js'
