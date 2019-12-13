@@ -38,4 +38,4 @@ Feel free to check issues page.
 5. Create a new Pull Request
 
 ## Show your support
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project
