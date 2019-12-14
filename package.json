@@ -1,0 +1,28 @@
+{
+  "name": "jest_practice",
+  "version": "1.0.0",
+  "description": "Jest testing for JS functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mesi21/Jest_practice.git"
+  },
+  "author": "Mesi, Imhta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mesi21/Jest_practice/issues"
+  },
+  "homepage": "https://github.com/Mesi21/Jest_practice#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
