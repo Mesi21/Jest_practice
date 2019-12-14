@@ -18,9 +18,9 @@ it('keep same the case', () => {
   expect(input).toBe(expectedOutput);
 });
 
-it('no shift for special chars ', () => {
-  const input = caesar.cipher('zZ@#', 2);
-  const expectedOutput = 'bB@#';
+it('no shift for special chars and punctuation', () => {
+  const input = caesar.cipher('zZ@#,', 2);
+  const expectedOutput = 'bB@#,';
   expect(input).toBe(expectedOutput);
 });
 
