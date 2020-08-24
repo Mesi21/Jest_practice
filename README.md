@@ -1,6 +1,6 @@
 # Jest Practice
 
-It is a practice repo for jest testing lib in javascript. And it is based on [odin's project](https://www.theodinproject.com/courses/javascript/lessons/testing-practice).
+It is a practice repo for jest testing lib in JavaScript. And it is based on [odin's project](https://www.theodinproject.com/courses/javascript/lessons/testing-practice).
 
 ## Tech Used
     - Javascript
@@ -10,17 +10,17 @@ It is a practice repo for jest testing lib in javascript. And it is based on [od
 
 ## Usage
 
-> Clone the repo to you local machine
+> Clone the repo to you local machine.
 ```bash
     git clone "https://github.com/Mesi21/Jest_practice.git"
 ```
-> CD into directory, install  dependencies, run test
+> CD into directory, install  dependencies, run test.
 ```bash
     cd Jest_practice
     npm install
     npm test
 ```
-> All the test should be green
+> All the test should be green.
 
 ## Author
 
@@ -38,4 +38,4 @@ Feel free to check issues page.
 5. Create a new Pull Request
 
 ## Show your support
-Give a ⭐️ if you like this project
+Give a ⭐️ if you like this project!
